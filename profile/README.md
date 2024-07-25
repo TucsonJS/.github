@@ -1,7 +1,7 @@
 # TucsonJS
 Hello and welcome to the home of the TucsonJS community.
 
-## Mission
+## 🎯 Mission
 TucsonJS is dedicated to fostering a welcoming, inclusive, and uplifting community in Tucson, AZ (and surrounding areas) where JavaScript developers of all skill levels can come together to find community, professionally network, share knowledge, and grow.
 
 ## ❤️ Code of Conduct
@@ -12,8 +12,8 @@ Third Thursdays each month (usually. See the calendar for event dates.)
 
 [Event Calendar](https://lu.ma/tucsonjs)
 
-## 🏗️ Speaking 
-A formal speaking proposal process is in the works, but in the meantime reach out if you'd like to give a talk at one of our events.
+## 🎤 Speaking 
+🏗️ A formal speaking proposal process is in the works, but in the meantime reach out if you'd like to give a talk at one of our events.
 
 ## 💬 Have suggestions, thoughts, or input?
 Open an [issue](https://github.com/TucsonJS/.github/issues)
