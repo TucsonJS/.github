@@ -10,6 +10,7 @@ By attending any TucsonJS event you agree to adhere to our [code of conduct](htt
 ## 📅 Schedule of Events
 Third Thursdays each month (usually. See the calendar for event dates.)
 
+Subscribe to the calendar for event alerts!
 [Event Calendar](https://lu.ma/tucsonjs)
 
 ## 🎤 Speaking 
