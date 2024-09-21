@@ -9,3 +9,6 @@ Harassment includes deliberate intimidation, stalking or following, harassing ph
 Participants, speakers, volunteers, or sponsors violating these rules may be warned, sanctioned, expelled, or banned from the event at the discretion of the organizers. If you are subject to or witness unacceptable behavior, or have any other concerns, please notify an organizer as soon as you are able.
 
 Thank you for keeping TucsonJS a welcoming, uplifting, community for everyone!
+
+## Where does the Code of Conduct apply?
+To all TucsonJS events and spaces, whether physical or virtual. 
