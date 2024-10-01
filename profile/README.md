@@ -15,8 +15,14 @@ Third Thursdays each month (usually. See the calendar for event dates.)
 Subscribe to the calendar for event alerts!
 [Event Calendar](https://lu.ma/tucsonjs)
 
+## 💬 Connect
+Can't make it in person or just want to keep in touch between meetups! [Join our Discord!](https://discord.gg/genM8dKvgt)
+
+Keep up to date with web dev news as a member of our [Daily.dev Squad!](https://dly.to/qetIiYcE2MO)
+
+
 ## 🎤 Speaking 
 🏗️ A formal speaking proposal process is in the works, but in the meantime reach out if you'd like to give a talk at one of our events.
 
-## 💬 Have suggestions, thoughts, or input?
+## 💭 Have suggestions, thoughts, or input?
 Open an [issue](https://github.com/TucsonJS/.github/issues)
