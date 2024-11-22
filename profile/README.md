@@ -4,7 +4,7 @@ Hello and welcome to the home of the TucsonJS community.
 <img src="/assets/TucsonJS-logo-square.png" alt="TucsonJS logo consisting of the downtown Tucson skyline and the name TucsonJS written in the night sky" width="30%">
 
 ## 🎯 Mission
-TucsonJS is dedicated to fostering a welcoming, inclusive, and uplifting community in Tucson, AZ (and surrounding areas) where JavaScript developers of all skill levels can come together to find community, professionally network, share knowledge, and grow.
+TucsonJS is dedicated to fostering a welcoming, inclusive, and uplifting community in Tucson, AZ (and surrounding areas) where web developers of all skill levels can come together to find community, professionally network, share knowledge, and grow.
 
 ## ❤️ Code of Conduct
 By attending any TucsonJS event you agree to adhere to our [code of conduct](https://github.com/TucsonJS/.github/blob/main/profile/CONDUCT.md).
